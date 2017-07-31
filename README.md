@@ -1,4 +1,4 @@
-# Using github.io to lead web page
+# Using github.io to load web page
 
 ## First test
 
